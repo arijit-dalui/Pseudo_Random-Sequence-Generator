@@ -206,3 +206,5 @@ is approximately = 5 for a sample size = 6 binary sequences.
 For further guidelines construct a probability table using the MAPLE program
 provided in the addendum section of the documentation.
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+
